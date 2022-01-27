@@ -8,4 +8,4 @@ Repositório para os códigos que estou fazendo durante a minha faculdade de Sis
 [Java](netbeans-projects)
 
 ## Projeto Integrado
-[Plataforma.NET, linguagem C#](visual-studio)
+[Plataforma .NET, linguagem C#](visual-studio)
